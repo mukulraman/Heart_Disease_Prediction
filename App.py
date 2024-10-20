@@ -34,4 +34,4 @@ def predict():
 
 # Run the app if executed directly
 if __name__ == "__main__":
-    app.run(port=5001)
+    app.run()
