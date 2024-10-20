@@ -1,0 +1,24 @@
+{
+    "data": [
+        {
+            "HeartDisease": 1,
+            "BMI": 27.5,
+            "Smoking": 1,
+            "AlcoholDrinking": 0,
+            "Stroke": 1,
+            "PhysicalHealth": 3,
+            "MentalHealth": 2,
+            "DiffWalking": 1,
+            "Sex": 0,
+            "AgeCategory": "70-74",
+            "Race": "White",
+            "Diabetic": "No",
+            "PhysicalActivity": 1,
+            "GenHealth": "Good",
+            "SleepTime": 7,
+            "Asthma": 0,
+            "KidneyDisease": 0,
+            "SkinCancer": 1
+        }
+    ]
+}
